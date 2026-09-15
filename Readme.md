@@ -2,7 +2,7 @@
 
 I’m a **Full-Stack Developer** with over **14 years of experience** building modern, production-grade web applications.
 
-My strongest background is in **React, Next.js, Node.js, TypeScript, and PostgreSQL**, and I’ve spent years developing full-stack systems that are scalable, maintainable, and built for real business needs.
+My strongest background is in **Vue, React, Next.js, Node.js, TypeScript, and PostgreSQL**, and I’ve spent years developing full-stack systems that are scalable, maintainable, and built for real business needs.
 
 I also work extensively with **JavaScript, Express.js, NestJS, Python, Django, FastAPI, MySQL, MongoDB, Redis, AWS, Docker, REST APIs, and GraphQL**.
 
