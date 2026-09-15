@@ -13,7 +13,7 @@ const Aubrey = {
     role: "Full-Stack Developer",
     experience: "14+ years",
     specialties: {
-        core: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
+        core: ["Vue", "React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
         frontend: ["React", "Next.js", "Vue.js", "React Native", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "NestJS", "Django", "FastAPI", "Flask"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis"],
